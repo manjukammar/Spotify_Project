@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" ignored="0" total="1" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4211" started-at="2023-01-08T15:53:47 IST" finished-at="2023-01-08T15:53:51 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4211" started-at="2023-01-08T15:53:47 IST" finished-at="2023-01-08T15:53:51 IST">
+      <class name="com.spotify.playlist.UpdatePalylistItems">
+        <test-method status="PASS" signature="createFiles()[pri:0, instance:com.spotify.playlist.UpdatePalylistItems@3eb91815]" name="createFiles" is-config="true" duration-ms="146" started-at="2023-01-08T15:53:46 IST" finished-at="2023-01-08T15:53:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createFiles -->
+        <test-method status="PASS" signature="launchApp()[pri:0, instance:com.spotify.playlist.UpdatePalylistItems@3eb91815]" name="launchApp" is-config="true" duration-ms="7" started-at="2023-01-08T15:53:47 IST" finished-at="2023-01-08T15:53:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method status="PASS" signature="setExtentReport(java.lang.reflect.Method)[pri:0, instance:com.spotify.playlist.UpdatePalylistItems@3eb91815]" name="setExtentReport" is-config="true" duration-ms="586" started-at="2023-01-08T15:53:47 IST" finished-at="2023-01-08T15:53:47 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.spotify.playlist.UpdatePalylistItems.playlist(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setExtentReport -->
+        <test-method status="FAIL" signature="playlist(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.spotify.playlist.UpdatePalylistItems@3eb91815]" name="playlist" duration-ms="3343" started-at="2023-01-08T15:53:47 IST" data-provider="data1" finished-at="2023-01-08T15:53:51 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[playlist]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5g4VjON00tbVn55rOJz6e8]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[5QcULNjvB1DkbMWxVYpOlo]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[null]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[limit,market,offset,ids,uris]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <exception class="junit.framework.AssertionFailedError">
+            <message>
+              <![CDATA[Unable to validate status code]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[junit.framework.AssertionFailedError: Unable to validate status code
+at junit.framework.Assert.fail(Assert.java:50)
+at com.spotify.utils.ApiActionUtil.validateStatusCode(ApiActionUtil.java:216)
+at com.spotify.utils.ApiActionUtil.putMethodWithBody(ApiActionUtil.java:645)
+at com.spotify.playlist.UpdatePalylistItems.playlist(UpdatePalylistItems.java:24)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.ArrayList.forEach(Unknown Source)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- junit.framework.AssertionFailedError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- playlist -->
+      </class> <!-- com.spotify.playlist.UpdatePalylistItems -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,5 @@
+2023-01-04 13:22:34,769 500  [main] INFO  com.spotify.baseutil.BaseTest - Folder creation for Extent
+2023-01-04 13:22:34,775 506  [main] INFO  com.spotify.baseutil.BaseTest - ExtentDir:-C:\WorkSpace2\Spotify_Api_Framework/reports/Automation Report- 01_04_2023_13_22_34
+2023-01-04 13:22:34,838 569  [main] INFO  com.spotify.baseutil.BaseTest - Report Initiated
+2023-01-04 13:22:34,838 569  [main] INFO  com.spotify.baseutil.BaseTest - Screenshot folder created
+2023-01-04 13:22:35,609 1340 [main] ERROR com.spotify.baseutil.BaseTest - Unable to get the details

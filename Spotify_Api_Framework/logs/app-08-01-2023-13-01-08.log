@@ -1,0 +1,9 @@
+2023-01-08 13:01:09,551 959  [main] INFO  com.spotify.baseutil.BaseTest - Folder creation for Extent
+2023-01-08 13:01:09,562 970  [main] INFO  com.spotify.baseutil.BaseTest - ExtentDir:-C:\WorkSpace2\Spotify_Api_Framework/reports/Automation Report- 01_08_2023_13_01_09
+2023-01-08 13:01:09,680 1088 [main] INFO  com.spotify.baseutil.BaseTest - Report Initiated
+2023-01-08 13:01:09,681 1089 [main] INFO  com.spotify.baseutil.BaseTest - Screenshot folder created
+2023-01-08 13:01:13,399 4807 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsing response as: application/json; charset=utf-8
+2023-01-08 13:01:13,440 4848 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+2023-01-08 13:01:13,793 5201 [main] ERROR com.spotify.baseutil.BaseTest - 1 expectation failed.
+Expected status code <200> but was <400>.
+

@@ -1,0 +1,9 @@
+2023-01-04 16:00:36,276 1204 [main] INFO  com.spotify.baseutil.BaseTest - Folder creation for Extent
+2023-01-04 16:00:36,287 1215 [main] INFO  com.spotify.baseutil.BaseTest - ExtentDir:-C:\WorkSpace2\Spotify_Api_Framework/reports/Automation Report- 01_04_2023_16_00_36
+2023-01-04 16:00:36,434 1362 [main] INFO  com.spotify.baseutil.BaseTest - Report Initiated
+2023-01-04 16:00:36,435 1363 [main] INFO  com.spotify.baseutil.BaseTest - Screenshot folder created
+2023-01-04 16:00:40,451 5379 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsing response as: application/json; charset=utf-8
+2023-01-04 16:00:40,482 5410 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+2023-01-04 16:00:40,870 5798 [main] INFO  com.spotify.baseutil.BaseTest - Status code is: 200
+2023-01-04 16:00:40,879 5807 [main] INFO  com.spotify.baseutil.BaseTest - Content type is: application/json
+2023-01-04 16:00:40,928 5856 [main] INFO  com.spotify.baseutil.BaseTest - Response time is less than: 2000

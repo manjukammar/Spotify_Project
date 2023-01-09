@@ -1,0 +1,7 @@
+2023-01-04 13:45:41,503 473  [main] INFO  com.spotify.baseutil.BaseTest - Folder creation for Extent
+2023-01-04 13:45:41,506 476  [main] INFO  com.spotify.baseutil.BaseTest - ExtentDir:-C:\WorkSpace2\Spotify_Api_Framework/reports/Automation Report- 01_04_2023_13_45_41
+2023-01-04 13:45:41,563 533  [main] INFO  com.spotify.baseutil.BaseTest - Report Initiated
+2023-01-04 13:45:41,564 534  [main] INFO  com.spotify.baseutil.BaseTest - Screenshot folder created
+2023-01-04 13:45:43,790 2760 [main] ERROR com.spotify.baseutil.BaseTest - 1 expectation failed.
+Expected status code <200> but was <404>.
+

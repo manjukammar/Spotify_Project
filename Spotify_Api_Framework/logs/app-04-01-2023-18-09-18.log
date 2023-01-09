@@ -1,0 +1,8 @@
+2023-01-04 18:09:19,284 551  [main] INFO  com.spotify.baseutil.BaseTest - Folder creation for Extent
+2023-01-04 18:09:19,288 555  [main] INFO  com.spotify.baseutil.BaseTest - ExtentDir:-C:\WorkSpace2\Spotify_Api_Framework/reports/Automation Report- 01_04_2023_18_09_19
+2023-01-04 18:09:19,350 617  [main] INFO  com.spotify.baseutil.BaseTest - Report Initiated
+2023-01-04 18:09:19,350 617  [main] INFO  com.spotify.baseutil.BaseTest - Screenshot folder created
+2023-01-04 18:09:21,524 2791 [main] INFO  com.spotify.baseutil.BaseTest - Status code is: 200
+2023-01-04 18:09:21,539 2806 [main] ERROR com.spotify.baseutil.BaseTest - 1 expectation failed.
+Expected content-type "application/json" doesn't match actual content-type "".
+

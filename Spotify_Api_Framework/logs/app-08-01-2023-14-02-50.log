@@ -1,0 +1,17 @@
+2023-01-08 14:02:51,763 940  [main] INFO  com.spotify.baseutil.BaseTest - Folder creation for Extent
+2023-01-08 14:02:51,769 946  [main] INFO  com.spotify.baseutil.BaseTest - ExtentDir:-C:\WorkSpace2\Spotify_Api_Framework/reports/Automation Report- 01_08_2023_14_02_51
+2023-01-08 14:02:51,874 1051 [main] INFO  com.spotify.baseutil.BaseTest - Report Initiated
+2023-01-08 14:02:51,875 1052 [main] INFO  com.spotify.baseutil.BaseTest - Screenshot folder created
+2023-01-08 14:02:55,392 4569 [main] INFO  com.spotify.baseutil.BaseTest - Status code is: 200
+2023-01-08 14:02:55,435 4612 [main] INFO  com.spotify.baseutil.BaseTest - Response time is less than: 2000
+2023-01-08 14:02:56,468 5645 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsing response as: application/json; charset=utf-8
+2023-01-08 14:02:56,470 5647 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+2023-01-08 14:02:56,542 5719 [main] INFO  com.spotify.baseutil.BaseTest - Status code is: 200
+2023-01-08 14:02:56,545 5722 [main] INFO  com.spotify.baseutil.BaseTest - Response time is less than: 2000
+2023-01-08 14:02:57,487 6664 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsing response as: application/json; charset=utf-8
+2023-01-08 14:02:57,489 6666 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+2023-01-08 14:02:57,545 6722 [main] INFO  com.spotify.baseutil.BaseTest - Status code is: 200
+2023-01-08 14:02:57,556 6733 [main] INFO  com.spotify.baseutil.BaseTest - Content type is: application/json
+2023-01-08 14:02:57,558 6735 [main] INFO  com.spotify.baseutil.BaseTest - Response time is less than: 2000
+2023-01-08 14:02:58,516 7693 [main] INFO  com.spotify.baseutil.BaseTest - Status code is: 200
+2023-01-08 14:02:58,519 7696 [main] INFO  com.spotify.baseutil.BaseTest - Response time is less than: 2000

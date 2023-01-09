@@ -1,0 +1,17 @@
+2023-01-08 14:42:47,529 973  [main] INFO  com.spotify.baseutil.BaseTest - Folder creation for Extent
+2023-01-08 14:42:47,539 983  [main] INFO  com.spotify.baseutil.BaseTest - ExtentDir:-C:\WorkSpace2\Spotify_Api_Framework/reports/Automation Report- 01_08_2023_14_42_47
+2023-01-08 14:42:47,672 1116 [main] INFO  com.spotify.baseutil.BaseTest - Report Initiated
+2023-01-08 14:42:47,673 1117 [main] INFO  com.spotify.baseutil.BaseTest - Screenshot folder created
+2023-01-08 14:42:53,401 6845 [main] INFO  com.spotify.baseutil.BaseTest - Status code is: 200
+2023-01-08 14:42:53,446 6890 [main] INFO  com.spotify.baseutil.BaseTest - Response time is less than: 2000
+2023-01-08 14:42:54,626 8070 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsing response as: application/json; charset=utf-8
+2023-01-08 14:42:54,628 8072 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+2023-01-08 14:42:54,690 8134 [main] INFO  com.spotify.baseutil.BaseTest - Status code is: 200
+2023-01-08 14:42:54,691 8135 [main] INFO  com.spotify.baseutil.BaseTest - Response time is less than: 2000
+2023-01-08 14:42:55,530 8974 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsing response as: application/json; charset=utf-8
+2023-01-08 14:42:55,532 8976 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+2023-01-08 14:42:55,541 8985 [main] INFO  com.spotify.baseutil.BaseTest - Status code is: 200
+2023-01-08 14:42:55,547 8991 [main] INFO  com.spotify.baseutil.BaseTest - Content type is: application/json
+2023-01-08 14:42:55,549 8993 [main] INFO  com.spotify.baseutil.BaseTest - Response time is less than: 2000
+2023-01-08 14:42:56,674 10118 [main] INFO  com.spotify.baseutil.BaseTest - Status code is: 200
+2023-01-08 14:42:56,677 10121 [main] INFO  com.spotify.baseutil.BaseTest - Response time is less than: 2000
